@@ -5,7 +5,7 @@ The code segments the interconnected pores of a certain material into different 
 The function can be found in the file snow_poros.py
 
 
-Installation
+##Installation
 
 Installation of this code should follow these instructions
 
