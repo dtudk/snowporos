@@ -4,8 +4,7 @@ The code segments the interconnected pores of a certain material into different 
 
 The function can be found in the file snow_poros.py
 
-
-##Installation
+### Installation
 
 Installation of this code should follow these instructions
 
@@ -14,11 +13,11 @@ make
 make install
 
 
-Usage
+### Usage
 
 The actual code that performs the steps of the SNOWPOROS algorithm can be found in the file snow_poros.py
 
 An real example that segments a binary image (image3_.tiff)is illustrated in the file example_using_snowporos.py. 
 
-License
+### License
 This code is released under the MIT License, see more in license_terms.txt.
